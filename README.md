@@ -2,8 +2,6 @@
 
 # JavaScript Basics
 
-Let’s start off with the basics – how to include JavaScript in a website.
-
 **Including JavaScript in an HTML Page**
 
 To include JavaScript inside a page, you need to wrap it in <script> tags:
